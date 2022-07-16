@@ -1,0 +1,12 @@
+[
+{
+  "directory": "D:/Learning materials/computer/c/example/cmake/sanziqi/build",
+  "command": "D:\\ruanjian\\TDM-GCC-64\\bin\\gcc.exe  @CMakeFiles/main.dir/includes_C.rsp  -Wall -fexec-charset=GBK -O2 -g -DNDEBUG -o CMakeFiles\\main.dir\\src\\game.obj -c \"D:\\Learning materials\\computer\\c\\example\\cmake\\sanziqi\\src\\game.c\"",
+  "file": "D:/Learning materials/computer/c/example/cmake/sanziqi/src/game.c"
+},
+{
+  "directory": "D:/Learning materials/computer/c/example/cmake/sanziqi/build",
+  "command": "D:\\ruanjian\\TDM-GCC-64\\bin\\gcc.exe  @CMakeFiles/main.dir/includes_C.rsp  -Wall -fexec-charset=GBK -O2 -g -DNDEBUG -o CMakeFiles\\main.dir\\src\\test.obj -c \"D:\\Learning materials\\computer\\c\\example\\cmake\\sanziqi\\src\\test.c\"",
+  "file": "D:/Learning materials/computer/c/example/cmake/sanziqi/src/test.c"
+}
+]

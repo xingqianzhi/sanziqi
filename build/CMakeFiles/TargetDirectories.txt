@@ -1,0 +1,3 @@
+D:/Learning materials/computer/c/example/cmake/sanziqi/build/CMakeFiles/main.dir
+D:/Learning materials/computer/c/example/cmake/sanziqi/build/CMakeFiles/edit_cache.dir
+D:/Learning materials/computer/c/example/cmake/sanziqi/build/CMakeFiles/rebuild_cache.dir
