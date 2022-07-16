@@ -1,3 +1,1 @@
 "# sanziqi" 
-"xingqianzhi"
-"# sanziqi" 
